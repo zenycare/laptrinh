@@ -98,6 +98,9 @@ void searchMaxMin( Node* phead){
     }
         printf("\n gia tri nho nhat cua danh sach la %d",min->info);
 }
+/*
+    Function delete
+*/
 void delete1(Node* phead){
     printf("\n nhap gia tri phan tu muon xoa:");
     int x;
@@ -123,6 +126,5 @@ int main(){
     //count(phead);
     //valuenodek(phead);
     //searchMaxMin(phead);
-    
     return 0;
 }

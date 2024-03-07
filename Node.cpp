@@ -117,7 +117,7 @@ void delete1(Node* phead){
 }
 int main(){
     Node *phead=NULL;
-    
+    printf("nhap gia tri n");
 
     nhap(phead);
     delete1(phead);

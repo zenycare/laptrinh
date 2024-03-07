@@ -115,6 +115,8 @@ void delete1(Node* phead){
     }
     }
 }
+
+//demo_ git pull
 int main(){
     Node *phead=NULL;
     printf("nhap gia tri n");

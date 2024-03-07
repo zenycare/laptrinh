@@ -115,7 +115,9 @@ void delete1(Node* phead){
     }
     }
 }
-
+void new_function(){
+    //do something
+}
 //demo_ git pull
 int main(){
     Node *phead=NULL;

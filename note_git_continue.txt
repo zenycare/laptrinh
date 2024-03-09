@@ -1,0 +1,19 @@
+//git clone
+//git push
+//git merge
+
+git push --set-upstream origin dev_1
+
+git checkout 
+git pull
+git fetch
+git resolve confict
+git pull request
+
+
+
+//git add 
+//git commit
+//git ignore
+//git branch
+
